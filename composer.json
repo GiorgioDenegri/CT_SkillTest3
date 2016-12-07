@@ -1,0 +1,19 @@
+{
+    "name": "coalition/example-test",
+    "description": "A php skills test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Georgeff",
+            "email": "mike.georgeff@coalitiontechnologies.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Coalition\\": "src/"
+        }
+    }
+}
