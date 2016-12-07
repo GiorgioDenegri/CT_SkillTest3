@@ -20,7 +20,6 @@ If you have any questions view the test class.</li>
 <li>Do not make any changes to the test class, this will result in 
 automatic disqualification</li>.
 </ul>
-<br/>
 <p>
 <b>Giorgio Denegri</b><br/>
 <i>Phone:</i> 305.783.0419<br/>
